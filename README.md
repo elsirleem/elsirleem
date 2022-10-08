@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salim
-- 👀 I’m interested in Machine Learning and Data analytics projects
+- 👀 I’m interested in Machine Learning and Data analysis projects
 - 🌱 I’m currently learning python and data science for ML
 - 💞️ I’m looking to collaborate on any data related projects
 - 📫 How to reach me on linkedin is www.linkedin/in/lawal-salim
