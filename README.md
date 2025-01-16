@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Salim
-- 👀 I’m interested in Machine Learning and Data Analysis
-- 🌱 I’m currently learning Python and data science for AI
-- 💞️ I’m looking to collaborate on any data analytics-related projects, especially energy-related ones.
-- I am also open to remote work positions as a data analyst.
-- 📫 How to reach me on LinkedIn is www.linkedin/in/lawal-salim, salimklawal@gmail.com
+- 👀 I’m interested in Software Engineering and Energy Efficient IoT Systems
+- 🌱 My Favourite Programming Language is Python 
+- I am also open to remote work positions and internships as Software Engineer.
+- 📫 Reach me on LinkedIn:www.linkedin/in/lawal-salim, or email:salimklawal@gmail.com
 
 <!---
 elsirleem/elsirleem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
